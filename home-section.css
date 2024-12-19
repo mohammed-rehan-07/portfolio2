@@ -1,0 +1,40 @@
+/* .....home-section css..... */
+
+.home-section {
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.home-section #left-home {
+    /* width: 50%; */
+    margin-left: 120px;
+}
+
+#left-home h3 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#left-home h1 {
+    font-size: 40px;
+}
+
+#left-home h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#left-home p{
+    font-size: 25px;
+}
+#left-home span {
+    color: #0ef;
+}
+
+#right-home .image img {
+    height: 600px;
+}

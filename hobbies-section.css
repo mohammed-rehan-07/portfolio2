@@ -1,0 +1,40 @@
+#hobbies-section {
+    height: 550px;
+    width: 100%;
+    margin-top: 150px;
+}
+
+#main-hobbies #hobbies-head h2 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    margin: 0 0 20px 0;
+    margin: 12px 0 20px 0;
+}
+
+#hobbies-head h2 span {
+    color: #0ef;
+}
+
+#hobbies-info {
+    display: flex;
+    justify-content: space-around;
+}
+
+#my-hobbies {
+    display: flex;
+    justify-content: space-around;
+}
+
+#my-hobbies #hobbies-para {
+    padding: 12px;
+    width: 310px;
+    border: 2px solid #0ef;
+    width: 260px;
+    box-shadow: 0 0 12px 12px #0ef;
+}
+
+#hobbies-para #hobbies-img img {
+    width: 230px;
+    margin: 12px 0 20px 0;
+}

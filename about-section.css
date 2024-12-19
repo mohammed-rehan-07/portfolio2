@@ -1,0 +1,47 @@
+/* .....abuot-section css...... */
+
+#about-section {
+    height: 700px;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#left-about {
+    width: 50%;
+    margin: 0 30px 0 25px;
+    display: flex;
+    justify-content: center;
+}
+
+#left-about #second-image {
+    width: 50%;
+    margin-right: 100px;
+}
+
+#left-about #second-image img {
+    height: 550px;
+}
+
+#right-about {
+    margin: 30px;
+}
+
+#about-text h1 {
+    display: inline-flex;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: #0ef;
+    border: 2px solid #0ef;
+    box-shadow: 0px 0px 12px 12px;
+    font-size: 50px;
+}
+
+#about-text p {
+    margin-top: 120px;
+    font-size: 20px;
+    font-weight: 600;
+}

@@ -1,0 +1,40 @@
+#skill-section {
+    height: 1100px;
+    width: 100%;
+    margin-top: 200px;
+}
+
+#skill-section #skill-head {
+    text-align: center;
+}
+
+#skill-head h2 {
+    font-size: 100px;
+}
+
+#skill-head h2 span {
+    color: #0ef;
+}
+
+#img-para-container{
+    width: 100%;
+
+}
+
+
+#img-para-container #img-para {
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 40px;
+    border: 2px solid #0ef;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px 12px #0ef;
+    padding: 15px;
+}
+
+#img-para #img {
+    margin-right: 40px;
+}
